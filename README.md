@@ -20,7 +20,7 @@ Those are the modes available:
 7. PAL,  sync on green
 
 
-All modes provide a colour bar pattern in the following sequene:
+All modes provide a colour bar pattern in the following sequence:
 
 ![Colour Bars](/doc/colorBars.png)
 
